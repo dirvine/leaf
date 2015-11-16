@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["sgd","Provides [ISolver][1] implementations based on [Stochastic Gradient Descent][2]. [1]: ../solver/trait.ISolver.html [2]: https://en.wikipedia.org/wiki/Stochastic_gradient_descent"]]});

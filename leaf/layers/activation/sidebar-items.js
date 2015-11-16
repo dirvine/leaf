@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["sigmoid","Applies the nonlinear Log-Sigmoid function."]]});

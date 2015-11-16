@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["new_shared_heapblob","..."]],"type":[["ArcLock","shared Lock used for our memory blobs"],["HeapBlob","Blob allocated on the heap via Box"]]});

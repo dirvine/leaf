@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["softmax","Computes the multinomial logistic loss of the softmax of its bottom Blob."]]});
